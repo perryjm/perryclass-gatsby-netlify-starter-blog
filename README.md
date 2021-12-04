@@ -2,6 +2,8 @@
   Gatsby Starter: Minimal Blog
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f80dfc8c-fb8d-46ba-a021-100eb90c8c34/deploy-status)](https://app.netlify.com/sites/perryclass-info/deploys)
+
 <p align="center">
   <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
@@ -11,9 +13,6 @@
   </a>
   <a href="https://perryclass.info">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
   </a>
 </p>
 
@@ -32,17 +31,6 @@ Typography driven, feature-rich blogging theme with minimal aesthetics. Includes
 - WebApp Manifest
 
 ## 🚀 Getting Started
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-minimal-blog)
-
-### 1. **Create a Gatsby site.**
-
-Use `git` to clone the site and navigate into it:
-
-```sh
-git clone https://github.com/LekoArts/gatsby-starter-minimal-blog project-name
-cd project-name
-```
 
 ### 2. **Install dependencies.**
 
