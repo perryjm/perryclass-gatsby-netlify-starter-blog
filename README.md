@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f80dfc8c-fb8d-46ba-a021-100eb90c8c34/deploy-status)](https://app.netlify.com/sites/perryclass-info/deploys)
+
 # gatsby-starter-blog
 Gatsby starter for creating a blog
 
