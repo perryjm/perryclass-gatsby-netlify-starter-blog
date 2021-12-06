@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Perry Class Blog`,
     siteHeadline: `Perry Class Blog`,
     siteUrl: `https://perryclass.info`,
-    siteDescription: `Invitational site and blog for recording the Book of Mormon Institute Class by ReNae Perry`,
+    siteDescription: `Invitational site and blog for recording the Book of Mormon Institute Class by RaNae Perry`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `Mike Perry`,
@@ -62,7 +62,7 @@ module.exports = {
       options: {
         name: `Perry Class Blog`,
         short_name: `perry-class-blog`,
-        description: `Invitational site and blog for recording the Book of Mormon Institute Class by ReNae Perry`,
+        description: `Invitational site and blog for recording the Book of Mormon Institute Class by RaNae Perry`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
