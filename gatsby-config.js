@@ -32,10 +32,10 @@ module.exports = {
           },
         ],
         externalLinks: [
-          {
-            name: `Podcast`,
-            url: `https://soyoucanhearme.com`,
-          },
+          // {
+          //   name: `Podcast`,
+          //   url: `https://soyoucanhearme.com`,
+          // },
         ],
       },
     },
