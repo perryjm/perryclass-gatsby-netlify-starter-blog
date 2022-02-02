@@ -19,5 +19,5 @@ let rl = require("readline-sync");
 
 // We covered 1 Nephi 4-5.
 
-// [📹 Video](https://www.youtube.com/watch?v=3v1MUltwSFM)
+// Email [Mikes](mailto:models.prelims-0d@icloud.com) for access to the [📹 Video](https://www.youtube.com/watch?v=3v1MUltwSFM)
 
