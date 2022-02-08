@@ -12,7 +12,7 @@ let rl = require("readline-sync");
 })();
 
 // ---
-// title: Study Recap (1 Nephi 4-5)
+// title: 1 Nephi 4-5)
 // date: 2021-12-20
 // slug: /1-nephi-4-5
 // ---
